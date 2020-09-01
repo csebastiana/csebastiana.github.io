@@ -1,19 +1,20 @@
 {
-  "basics": {
-    "name": "Chavez Sebastian Ancheta",
-    "label": "Shidler Undergraduate",
-    "picture": "https://csebastiana.github.io/images/smallChavez_AnchetaV.jpg",
-    "email": "csna@hawaii.edu",
-    "website": "https://csebastiana.github.io",
-    "summary": "I am studying for a B.B.A. in Management Information Systems at the Shidler College of Business at the University of Hawaii. I expect to graduate in Fall, 2021.",
-    "location": {
+  "basics":{
+    "name":"Chavez Sebastian Ancheta",
+    "label":"Shidler Undergraduate",
+    "picture":"https://csebastiana.github.io/images/smallChavez_AnchetaV.jpg",
+    "email":"csna@hawaii.edu",
+    "phone":"808-234-3357",
+    "website":"https://csebastiana.github.io",
+    "summary":"I am studying for a B.B.A. in Management Information Systems at the Shidler College of Business at the University of Hawaii. I expect to graduate in Fall, 2021.",
+    "location":{
       "address": "",
       "postalCode": "96819",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
     },
-    "profiles": [
+    "profiles":[
       {
         "network": "github",
         "username": "csebastiana",
@@ -26,55 +27,65 @@
       }
     ]
   },
-  "interests": [
+  "interests":[
     {
-      "name": "music",
-      "keywords": [
+      "name": "Music",
+      "keywords":[
+        
       ]
     },
     {
-      "name": "gaming",
-      "keywords": [
+      "name": "Gaming",
+      "keywords":[
+        
       ]
     },
     {
-      "name": "data science",
-      "keywords": [
+      "name": "Working Out",
+      "keywords":[
+        
+      ]
+    },
+    {
+      "name": "Bodysurfing",
+      "keywords":[
+        
       ]
     }
   ],
-  "education": [
+  "skills":[
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Fall, 2021)",
-      "studyType": "B.B.A.",
-      "startDate": "2017-09-01",
-      "endDate": "Present",
-      "gpa": "",
-      "courses": [
-      ]
-    }
-  ],
-  "skills": [
-    {
-      "name": "Technical",
-      "level": "",
-      "keywords": [
+      "name":"Technical",
+      "level":"",
+      "keywords":[
         "Proficient with MS Office (Word, PowerPoint, and Excel)",
         "Skilled with Google Suite (Docs, Slides, and Drive)",
         "Competent with various social media platforms (LinkedIn, Twitter, Instagram, Snapchat, Facebook)"
       ]
     }
   ],
-  "work": [
+  "education":[
+      {
+         "institution":"Shidler College of Business | University of Hawaii at Manoa",
+         "area":"Management Information Systems (expected Spring, 2021)",
+         "studyType":"B.B.A",
+         "startDate":"2017",
+         "endDate":"Present",
+         "gpa":"3.06",
+         "courses":[
+            
+         ]
+      }
+   ],
+  "work":[
     {
       "company": "Pizza Hut",
       "position": "Delivery Driver",
       "website": "",
-      "startDate": "2020-01-04",
+      "startDate": "2020-01",
       "endDate": "Present",
       "summary": "Transport food items from restaurants to customers' homes in a timely manner.",
-      "highlights": [
+      "highlights":[
         "Deliver high quality customer service to customers and maintain their satisfaction levels."
       ]
     },
@@ -82,8 +93,8 @@
       "company": "Navy Exchange",
       "position": "Warehouse Worker",
       "website": "",
-      "startDate": "2016-11-01",
-      "endDate": "2020-04-01",
+      "startDate": "2016-11",
+      "endDate": "2020-04",
       "summary": "Used heavy machinery to haul furniture from shelves to shipping bay.",
       "highlights": [
         "Maintained an accuracy of above 95% pick rate while pulling items."
@@ -99,10 +110,10 @@
       "highlights": [
         "Executed quarterly stock inventory to prevent item shortages."
         "Assisted in receiving and verifying products on shipment days."
-  ]
-    },
-    {
-  "volunteer": [
+      ]
+    }
+    ],
+  "volunteer":[
     {
       "organization": "Center for Renewable Energy and Island Sustainability",
       "website": "http://manoa.hawaii.edu/reis",
