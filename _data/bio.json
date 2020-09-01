@@ -54,5 +54,97 @@
       "courses": [
       ]
     }
+  ],
+  "skills": [
+    {
+      "name": "Technical",
+      "level": "",
+      "keywords": [
+        "Proficient with MS Office (Word, PowerPoint, and Excel)",
+        "Skilled with Google Suite (Docs, Slides, and Drive)",
+        "Competent with various social media platforms (LinkedIn, Twitter, Instagram, Snapchat, Facebook)"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Pizza Hut",
+      "position": "Delivery Driver",
+      "website": "",
+      "startDate": "2020-01-04",
+      "endDate": "Present",
+      "summary": "Transport food items from restaurants to customers' homes in a timely manner.",
+      "highlights": [
+        "Deliver high quality customer service to customers and maintain their satisfaction levels."
+      ]
+    },
+    {
+      "company": "Navy Exchange",
+      "position": "Warehouse Worker",
+      "website": "",
+      "startDate": "2016-11-01",
+      "endDate": "2020-04-01",
+      "summary": "Used heavy machinery to haul furniture from shelves to shipping bay.",
+      "highlights": [
+        "Maintained an accuracy of above 95% pick rate while pulling items."
+      ]
+    },
+    {
+      "company": "Pets Plus",
+      "position": "Sales Associate",
+      "website": "",
+      "startDate": "2013-06-01",
+      "endDate": "2014-06-01",
+      "summary": "Performed customer service tasks (i.e, greeted, offered advice, added on items to assure quality of life for customers.)",
+      "highlights": [
+        "Executed quarterly stock inventory to prevent item shortages."
+        "Assisted in receiving and verifying products on shipment days."
+  ]
+  "volunteer": [
+    {
+      "organization": "Center for Renewable Energy and Island Sustainability",
+      "website": "http://manoa.hawaii.edu/reis",
+      "position": "Software Developer",
+      "startDate": "2016-01-01",
+      "endDate": "Present",
+      "summary": "Lead developer for weather sensing project",
+      "highlights": [
+        "Design firmware for distributed weather sensor network",
+        "Maintain custom data collection and storage infrastructure"
+      ]
+    },
+    {
+      "organization": "Society for Human Resource Management Aloha Chapter",
+      "website": "shrmuhm.com",
+      "position": "Executive Secretary",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Chair, ACM Manoa, 2016-Present",
+        "Member, IEEE Student Branch, 2014-Present",
+        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "B+ Scholarship",
+      "date": "2013-Present",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+    },
+    {
+      "title": "First place",
+      "date": "2015",
+      "awarder": "University of Hawaii Micromouse Competition",
+      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request",
+      "reference": ""
+    }
   ]
 }
