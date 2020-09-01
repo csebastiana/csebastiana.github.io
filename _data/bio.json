@@ -55,14 +55,28 @@
    ],
    "skills":[
       {
-         "name":"Technical",
+         "name":"Microsoft Office",
          "level":"",
          "keywords":[
-            "Microsoft Office (Word, PowerPoint, and Excel)",
+            "Word, PowerPoint, and Excel",
             "Google Suite (Docs, Slides, Sheets, and Drive)",
             "Competent with various social media platforms (LinkedIn, Twitter, Instagram, Snapchat, Facebook)"
          ]
-      }
+      },
+     {
+       "name":"Google Suite",
+       "level":"",
+       "keywords":[
+         "Docs, Slides, Sheets, and Drive"
+         ]
+     },
+     {
+       "name":"Social Media Competency",
+       "level":"",
+       "keywords":[
+         "LinkedIn, Twitter, Instagram, Snapchat, Facebook"
+         ]
+     }
    ],
    "education":[
       {
