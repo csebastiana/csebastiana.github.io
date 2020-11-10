@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: My Progress in Programming Report
 # All dates must be YYYY-MM-DD format!
-date: 2020-09-01
+date: 2020-11-10
 labels:
   - My Progress in Programming Report
 ---
